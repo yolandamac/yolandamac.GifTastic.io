@@ -1,0 +1,76 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image:  url("/Users/yolandamccarthy/Documents/DU Bootcamp/Homework_Images/Festive-Background.jpg");
+}
+.container-fluid {
+    display: table;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+h1 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 48px;
+            }
+img {
+    width: 500px;
+}
+
+.left-half {
+  position: absolute;
+  left: 0px;
+  width: 50%;
+}
+
+.right-half {
+  position: absolute;
+  right: 0px;
+  width: 50%;
+}
+
+.button {
+    background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 25px 150px;
+    cursor: pointer;
+}
+
+.buttonS {
+    background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 25px 170px;
+    cursor: pointer;
+}
+
+#questionSection {
+    margin-top: 75px;
+    font-size: x-large;
+}
+
+#time-left {
+    text-align: center;
+    background-color: #f44336;
+    color: white;
+    font-size: x-large;
+
+}
+
+
+
+
